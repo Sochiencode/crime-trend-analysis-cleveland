@@ -1,0 +1,491 @@
+Month,Crime type,crime_count,month_of_year
+2023-01-01,Anti-social behaviour,1161,1
+2023-01-01,Bicycle theft,40,1
+2023-01-01,Burglary,416,1
+2023-01-01,Criminal damage and arson,770,1
+2023-01-01,Drugs,217,1
+2023-01-01,Other crime,163,1
+2023-01-01,Other theft,383,1
+2023-01-01,Possession of weapons,64,1
+2023-01-01,Public order,635,1
+2023-01-01,Robbery,71,1
+2023-01-01,Shoplifting,592,1
+2023-01-01,Theft from the person,43,1
+2023-01-01,Vehicle crime,359,1
+2023-01-01,Violence and sexual offences,2749,1
+2023-02-01,Anti-social behaviour,1402,2
+2023-02-01,Bicycle theft,69,2
+2023-02-01,Burglary,383,2
+2023-02-01,Criminal damage and arson,793,2
+2023-02-01,Drugs,189,2
+2023-02-01,Other crime,181,2
+2023-02-01,Other theft,414,2
+2023-02-01,Possession of weapons,54,2
+2023-02-01,Public order,726,2
+2023-02-01,Robbery,78,2
+2023-02-01,Shoplifting,709,2
+2023-02-01,Theft from the person,41,2
+2023-02-01,Vehicle crime,365,2
+2023-02-01,Violence and sexual offences,2665,2
+2023-03-01,Anti-social behaviour,1559,3
+2023-03-01,Bicycle theft,72,3
+2023-03-01,Burglary,488,3
+2023-03-01,Criminal damage and arson,894,3
+2023-03-01,Drugs,175,3
+2023-03-01,Other crime,202,3
+2023-03-01,Other theft,446,3
+2023-03-01,Possession of weapons,58,3
+2023-03-01,Public order,733,3
+2023-03-01,Robbery,70,3
+2023-03-01,Shoplifting,774,3
+2023-03-01,Theft from the person,42,3
+2023-03-01,Vehicle crime,391,3
+2023-03-01,Violence and sexual offences,2822,3
+2023-04-01,Anti-social behaviour,1700,4
+2023-04-01,Bicycle theft,42,4
+2023-04-01,Burglary,438,4
+2023-04-01,Criminal damage and arson,868,4
+2023-04-01,Drugs,175,4
+2023-04-01,Other crime,155,4
+2023-04-01,Other theft,487,4
+2023-04-01,Possession of weapons,58,4
+2023-04-01,Public order,727,4
+2023-04-01,Robbery,85,4
+2023-04-01,Shoplifting,722,4
+2023-04-01,Theft from the person,56,4
+2023-04-01,Vehicle crime,440,4
+2023-04-01,Violence and sexual offences,2754,4
+2023-05-01,Anti-social behaviour,1639,5
+2023-05-01,Bicycle theft,63,5
+2023-05-01,Burglary,407,5
+2023-05-01,Criminal damage and arson,830,5
+2023-05-01,Drugs,239,5
+2023-05-01,Other crime,200,5
+2023-05-01,Other theft,435,5
+2023-05-01,Possession of weapons,72,5
+2023-05-01,Public order,743,5
+2023-05-01,Robbery,67,5
+2023-05-01,Shoplifting,596,5
+2023-05-01,Theft from the person,65,5
+2023-05-01,Vehicle crime,354,5
+2023-05-01,Violence and sexual offences,3054,5
+2023-06-01,Anti-social behaviour,1834,6
+2023-06-01,Bicycle theft,56,6
+2023-06-01,Burglary,441,6
+2023-06-01,Criminal damage and arson,803,6
+2023-06-01,Drugs,202,6
+2023-06-01,Other crime,206,6
+2023-06-01,Other theft,491,6
+2023-06-01,Possession of weapons,69,6
+2023-06-01,Public order,732,6
+2023-06-01,Robbery,83,6
+2023-06-01,Shoplifting,507,6
+2023-06-01,Theft from the person,34,6
+2023-06-01,Vehicle crime,345,6
+2023-06-01,Violence and sexual offences,2916,6
+2023-07-01,Anti-social behaviour,1696,7
+2023-07-01,Bicycle theft,83,7
+2023-07-01,Burglary,415,7
+2023-07-01,Criminal damage and arson,886,7
+2023-07-01,Drugs,204,7
+2023-07-01,Other crime,191,7
+2023-07-01,Other theft,494,7
+2023-07-01,Possession of weapons,65,7
+2023-07-01,Public order,692,7
+2023-07-01,Robbery,83,7
+2023-07-01,Shoplifting,613,7
+2023-07-01,Theft from the person,28,7
+2023-07-01,Vehicle crime,380,7
+2023-07-01,Violence and sexual offences,2726,7
+2023-08-01,Anti-social behaviour,1722,8
+2023-08-01,Bicycle theft,56,8
+2023-08-01,Burglary,450,8
+2023-08-01,Criminal damage and arson,881,8
+2023-08-01,Drugs,215,8
+2023-08-01,Other crime,185,8
+2023-08-01,Other theft,461,8
+2023-08-01,Possession of weapons,55,8
+2023-08-01,Public order,584,8
+2023-08-01,Robbery,65,8
+2023-08-01,Shoplifting,645,8
+2023-08-01,Theft from the person,23,8
+2023-08-01,Vehicle crime,385,8
+2023-08-01,Violence and sexual offences,2572,8
+2023-09-01,Anti-social behaviour,1403,9
+2023-09-01,Bicycle theft,56,9
+2023-09-01,Burglary,403,9
+2023-09-01,Criminal damage and arson,849,9
+2023-09-01,Drugs,200,9
+2023-09-01,Other crime,187,9
+2023-09-01,Other theft,496,9
+2023-09-01,Possession of weapons,53,9
+2023-09-01,Public order,561,9
+2023-09-01,Robbery,69,9
+2023-09-01,Shoplifting,744,9
+2023-09-01,Theft from the person,29,9
+2023-09-01,Vehicle crime,438,9
+2023-09-01,Violence and sexual offences,2603,9
+2023-10-01,Anti-social behaviour,1459,10
+2023-10-01,Bicycle theft,63,10
+2023-10-01,Burglary,413,10
+2023-10-01,Criminal damage and arson,835,10
+2023-10-01,Drugs,206,10
+2023-10-01,Other crime,176,10
+2023-10-01,Other theft,429,10
+2023-10-01,Possession of weapons,61,10
+2023-10-01,Public order,579,10
+2023-10-01,Robbery,59,10
+2023-10-01,Shoplifting,719,10
+2023-10-01,Theft from the person,26,10
+2023-10-01,Vehicle crime,487,10
+2023-10-01,Violence and sexual offences,2636,10
+2023-11-01,Anti-social behaviour,950,11
+2023-11-01,Bicycle theft,42,11
+2023-11-01,Burglary,317,11
+2023-11-01,Criminal damage and arson,727,11
+2023-11-01,Drugs,255,11
+2023-11-01,Other crime,141,11
+2023-11-01,Other theft,405,11
+2023-11-01,Possession of weapons,48,11
+2023-11-01,Public order,529,11
+2023-11-01,Robbery,42,11
+2023-11-01,Shoplifting,541,11
+2023-11-01,Theft from the person,26,11
+2023-11-01,Vehicle crime,336,11
+2023-11-01,Violence and sexual offences,2485,11
+2023-12-01,Anti-social behaviour,928,12
+2023-12-01,Bicycle theft,28,12
+2023-12-01,Burglary,332,12
+2023-12-01,Criminal damage and arson,656,12
+2023-12-01,Drugs,197,12
+2023-12-01,Other crime,156,12
+2023-12-01,Other theft,409,12
+2023-12-01,Possession of weapons,56,12
+2023-12-01,Public order,460,12
+2023-12-01,Robbery,40,12
+2023-12-01,Shoplifting,551,12
+2023-12-01,Theft from the person,20,12
+2023-12-01,Vehicle crime,295,12
+2023-12-01,Violence and sexual offences,2395,12
+2024-01-01,Anti-social behaviour,766,1
+2024-01-01,Bicycle theft,40,1
+2024-01-01,Burglary,359,1
+2024-01-01,Criminal damage and arson,689,1
+2024-01-01,Drugs,208,1
+2024-01-01,Other crime,157,1
+2024-01-01,Other theft,396,1
+2024-01-01,Possession of weapons,66,1
+2024-01-01,Public order,455,1
+2024-01-01,Robbery,64,1
+2024-01-01,Shoplifting,647,1
+2024-01-01,Theft from the person,22,1
+2024-01-01,Vehicle crime,376,1
+2024-01-01,Violence and sexual offences,2316,1
+2024-02-01,Anti-social behaviour,1032,2
+2024-02-01,Bicycle theft,32,2
+2024-02-01,Burglary,309,2
+2024-02-01,Criminal damage and arson,747,2
+2024-02-01,Drugs,197,2
+2024-02-01,Other crime,152,2
+2024-02-01,Other theft,381,2
+2024-02-01,Possession of weapons,59,2
+2024-02-01,Public order,535,2
+2024-02-01,Robbery,70,2
+2024-02-01,Shoplifting,608,2
+2024-02-01,Theft from the person,23,2
+2024-02-01,Vehicle crime,314,2
+2024-02-01,Violence and sexual offences,2182,2
+2024-03-01,Anti-social behaviour,1451,3
+2024-03-01,Bicycle theft,47,3
+2024-03-01,Burglary,334,3
+2024-03-01,Criminal damage and arson,745,3
+2024-03-01,Drugs,212,3
+2024-03-01,Other crime,213,3
+2024-03-01,Other theft,423,3
+2024-03-01,Possession of weapons,74,3
+2024-03-01,Public order,550,3
+2024-03-01,Robbery,60,3
+2024-03-01,Shoplifting,667,3
+2024-03-01,Theft from the person,19,3
+2024-03-01,Vehicle crime,332,3
+2024-03-01,Violence and sexual offences,2563,3
+2024-04-01,Anti-social behaviour,1539,4
+2024-04-01,Bicycle theft,55,4
+2024-04-01,Burglary,388,4
+2024-04-01,Criminal damage and arson,749,4
+2024-04-01,Drugs,233,4
+2024-04-01,Other crime,186,4
+2024-04-01,Other theft,425,4
+2024-04-01,Possession of weapons,61,4
+2024-04-01,Public order,478,4
+2024-04-01,Robbery,90,4
+2024-04-01,Shoplifting,825,4
+2024-04-01,Theft from the person,21,4
+2024-04-01,Vehicle crime,415,4
+2024-04-01,Violence and sexual offences,2456,4
+2024-05-01,Anti-social behaviour,1919,5
+2024-05-01,Bicycle theft,53,5
+2024-05-01,Burglary,355,5
+2024-05-01,Criminal damage and arson,798,5
+2024-05-01,Drugs,243,5
+2024-05-01,Other crime,208,5
+2024-05-01,Other theft,453,5
+2024-05-01,Possession of weapons,64,5
+2024-05-01,Public order,556,5
+2024-05-01,Robbery,95,5
+2024-05-01,Shoplifting,731,5
+2024-05-01,Theft from the person,35,5
+2024-05-01,Vehicle crime,355,5
+2024-05-01,Violence and sexual offences,2691,5
+2024-06-01,Anti-social behaviour,1585,6
+2024-06-01,Bicycle theft,39,6
+2024-06-01,Burglary,314,6
+2024-06-01,Criminal damage and arson,827,6
+2024-06-01,Drugs,256,6
+2024-06-01,Other crime,212,6
+2024-06-01,Other theft,423,6
+2024-06-01,Possession of weapons,59,6
+2024-06-01,Public order,559,6
+2024-06-01,Robbery,71,6
+2024-06-01,Shoplifting,631,6
+2024-06-01,Theft from the person,26,6
+2024-06-01,Vehicle crime,324,6
+2024-06-01,Violence and sexual offences,2480,6
+2024-07-01,Anti-social behaviour,1392,7
+2024-07-01,Bicycle theft,41,7
+2024-07-01,Burglary,339,7
+2024-07-01,Criminal damage and arson,768,7
+2024-07-01,Drugs,266,7
+2024-07-01,Other crime,210,7
+2024-07-01,Other theft,403,7
+2024-07-01,Possession of weapons,67,7
+2024-07-01,Public order,657,7
+2024-07-01,Robbery,73,7
+2024-07-01,Shoplifting,707,7
+2024-07-01,Theft from the person,21,7
+2024-07-01,Vehicle crime,266,7
+2024-07-01,Violence and sexual offences,2728,7
+2024-08-01,Anti-social behaviour,1708,8
+2024-08-01,Bicycle theft,57,8
+2024-08-01,Burglary,389,8
+2024-08-01,Criminal damage and arson,997,8
+2024-08-01,Drugs,237,8
+2024-08-01,Other crime,202,8
+2024-08-01,Other theft,454,8
+2024-08-01,Possession of weapons,84,8
+2024-08-01,Public order,640,8
+2024-08-01,Robbery,69,8
+2024-08-01,Shoplifting,714,8
+2024-08-01,Theft from the person,23,8
+2024-08-01,Vehicle crime,379,8
+2024-08-01,Violence and sexual offences,2564,8
+2024-09-01,Anti-social behaviour,1335,9
+2024-09-01,Bicycle theft,49,9
+2024-09-01,Burglary,364,9
+2024-09-01,Criminal damage and arson,729,9
+2024-09-01,Drugs,249,9
+2024-09-01,Other crime,200,9
+2024-09-01,Other theft,352,9
+2024-09-01,Possession of weapons,44,9
+2024-09-01,Public order,508,9
+2024-09-01,Robbery,85,9
+2024-09-01,Shoplifting,820,9
+2024-09-01,Theft from the person,19,9
+2024-09-01,Vehicle crime,355,9
+2024-09-01,Violence and sexual offences,2414,9
+2024-10-01,Anti-social behaviour,1502,10
+2024-10-01,Bicycle theft,49,10
+2024-10-01,Burglary,300,10
+2024-10-01,Criminal damage and arson,862,10
+2024-10-01,Drugs,267,10
+2024-10-01,Other crime,193,10
+2024-10-01,Other theft,381,10
+2024-10-01,Possession of weapons,80,10
+2024-10-01,Public order,517,10
+2024-10-01,Robbery,70,10
+2024-10-01,Shoplifting,826,10
+2024-10-01,Theft from the person,27,10
+2024-10-01,Vehicle crime,311,10
+2024-10-01,Violence and sexual offences,2308,10
+2024-11-01,Anti-social behaviour,1136,11
+2024-11-01,Bicycle theft,31,11
+2024-11-01,Burglary,325,11
+2024-11-01,Criminal damage and arson,748,11
+2024-11-01,Drugs,238,11
+2024-11-01,Other crime,245,11
+2024-11-01,Other theft,352,11
+2024-11-01,Possession of weapons,49,11
+2024-11-01,Public order,499,11
+2024-11-01,Robbery,54,11
+2024-11-01,Shoplifting,704,11
+2024-11-01,Theft from the person,21,11
+2024-11-01,Vehicle crime,265,11
+2024-11-01,Violence and sexual offences,2283,11
+2024-12-01,Anti-social behaviour,944,12
+2024-12-01,Bicycle theft,22,12
+2024-12-01,Burglary,285,12
+2024-12-01,Criminal damage and arson,644,12
+2024-12-01,Drugs,233,12
+2024-12-01,Other crime,168,12
+2024-12-01,Other theft,323,12
+2024-12-01,Possession of weapons,54,12
+2024-12-01,Public order,391,12
+2024-12-01,Robbery,68,12
+2024-12-01,Shoplifting,519,12
+2024-12-01,Theft from the person,23,12
+2024-12-01,Vehicle crime,252,12
+2024-12-01,Violence and sexual offences,2170,12
+2025-01-01,Anti-social behaviour,1061,1
+2025-01-01,Bicycle theft,22,1
+2025-01-01,Burglary,272,1
+2025-01-01,Criminal damage and arson,611,1
+2025-01-01,Drugs,230,1
+2025-01-01,Other crime,210,1
+2025-01-01,Other theft,372,1
+2025-01-01,Possession of weapons,59,1
+2025-01-01,Public order,411,1
+2025-01-01,Robbery,76,1
+2025-01-01,Shoplifting,556,1
+2025-01-01,Theft from the person,15,1
+2025-01-01,Vehicle crime,350,1
+2025-01-01,Violence and sexual offences,2249,1
+2025-02-01,Anti-social behaviour,1181,2
+2025-02-01,Bicycle theft,27,2
+2025-02-01,Burglary,235,2
+2025-02-01,Criminal damage and arson,590,2
+2025-02-01,Drugs,261,2
+2025-02-01,Other crime,231,2
+2025-02-01,Other theft,300,2
+2025-02-01,Possession of weapons,51,2
+2025-02-01,Public order,374,2
+2025-02-01,Robbery,65,2
+2025-02-01,Shoplifting,654,2
+2025-02-01,Theft from the person,22,2
+2025-02-01,Vehicle crime,202,2
+2025-02-01,Violence and sexual offences,2044,2
+2025-03-01,Anti-social behaviour,1621,3
+2025-03-01,Bicycle theft,36,3
+2025-03-01,Burglary,290,3
+2025-03-01,Criminal damage and arson,706,3
+2025-03-01,Drugs,290,3
+2025-03-01,Other crime,263,3
+2025-03-01,Other theft,323,3
+2025-03-01,Possession of weapons,64,3
+2025-03-01,Public order,464,3
+2025-03-01,Robbery,82,3
+2025-03-01,Shoplifting,740,3
+2025-03-01,Theft from the person,25,3
+2025-03-01,Vehicle crime,275,3
+2025-03-01,Violence and sexual offences,2404,3
+2025-04-01,Anti-social behaviour,1703,4
+2025-04-01,Bicycle theft,34,4
+2025-04-01,Burglary,277,4
+2025-04-01,Criminal damage and arson,703,4
+2025-04-01,Drugs,281,4
+2025-04-01,Other crime,202,4
+2025-04-01,Other theft,344,4
+2025-04-01,Possession of weapons,71,4
+2025-04-01,Public order,471,4
+2025-04-01,Robbery,96,4
+2025-04-01,Shoplifting,658,4
+2025-04-01,Theft from the person,10,4
+2025-04-01,Vehicle crime,225,4
+2025-04-01,Violence and sexual offences,2363,4
+2025-05-01,Anti-social behaviour,1749,5
+2025-05-01,Bicycle theft,50,5
+2025-05-01,Burglary,320,5
+2025-05-01,Criminal damage and arson,754,5
+2025-05-01,Drugs,224,5
+2025-05-01,Other crime,199,5
+2025-05-01,Other theft,360,5
+2025-05-01,Possession of weapons,68,5
+2025-05-01,Public order,505,5
+2025-05-01,Robbery,93,5
+2025-05-01,Shoplifting,674,5
+2025-05-01,Theft from the person,24,5
+2025-05-01,Vehicle crime,324,5
+2025-05-01,Violence and sexual offences,2455,5
+2025-06-01,Anti-social behaviour,1672,6
+2025-06-01,Bicycle theft,42,6
+2025-06-01,Burglary,322,6
+2025-06-01,Criminal damage and arson,808,6
+2025-06-01,Drugs,211,6
+2025-06-01,Other crime,233,6
+2025-06-01,Other theft,372,6
+2025-06-01,Possession of weapons,46,6
+2025-06-01,Public order,514,6
+2025-06-01,Robbery,133,6
+2025-06-01,Shoplifting,650,6
+2025-06-01,Theft from the person,31,6
+2025-06-01,Vehicle crime,261,6
+2025-06-01,Violence and sexual offences,2512,6
+2025-07-01,Anti-social behaviour,1668,7
+2025-07-01,Bicycle theft,62,7
+2025-07-01,Burglary,327,7
+2025-07-01,Criminal damage and arson,771,7
+2025-07-01,Drugs,238,7
+2025-07-01,Other crime,270,7
+2025-07-01,Other theft,388,7
+2025-07-01,Possession of weapons,66,7
+2025-07-01,Public order,565,7
+2025-07-01,Robbery,124,7
+2025-07-01,Shoplifting,715,7
+2025-07-01,Theft from the person,27,7
+2025-07-01,Vehicle crime,230,7
+2025-07-01,Violence and sexual offences,2735,7
+2025-08-01,Anti-social behaviour,1773,8
+2025-08-01,Bicycle theft,56,8
+2025-08-01,Burglary,356,8
+2025-08-01,Criminal damage and arson,784,8
+2025-08-01,Drugs,210,8
+2025-08-01,Other crime,202,8
+2025-08-01,Other theft,395,8
+2025-08-01,Possession of weapons,57,8
+2025-08-01,Public order,530,8
+2025-08-01,Robbery,124,8
+2025-08-01,Shoplifting,769,8
+2025-08-01,Theft from the person,35,8
+2025-08-01,Vehicle crime,300,8
+2025-08-01,Violence and sexual offences,2446,8
+2025-09-01,Anti-social behaviour,1442,9
+2025-09-01,Bicycle theft,30,9
+2025-09-01,Burglary,339,9
+2025-09-01,Criminal damage and arson,730,9
+2025-09-01,Drugs,239,9
+2025-09-01,Other crime,208,9
+2025-09-01,Other theft,368,9
+2025-09-01,Possession of weapons,52,9
+2025-09-01,Public order,561,9
+2025-09-01,Robbery,100,9
+2025-09-01,Shoplifting,774,9
+2025-09-01,Theft from the person,26,9
+2025-09-01,Vehicle crime,268,9
+2025-09-01,Violence and sexual offences,2376,9
+2025-10-01,Anti-social behaviour,1585,10
+2025-10-01,Bicycle theft,50,10
+2025-10-01,Burglary,305,10
+2025-10-01,Criminal damage and arson,817,10
+2025-10-01,Drugs,319,10
+2025-10-01,Other crime,231,10
+2025-10-01,Other theft,318,10
+2025-10-01,Possession of weapons,69,10
+2025-10-01,Public order,534,10
+2025-10-01,Robbery,124,10
+2025-10-01,Shoplifting,847,10
+2025-10-01,Theft from the person,17,10
+2025-10-01,Vehicle crime,268,10
+2025-10-01,Violence and sexual offences,2488,10
+2025-11-01,Anti-social behaviour,1185,11
+2025-11-01,Bicycle theft,32,11
+2025-11-01,Burglary,273,11
+2025-11-01,Criminal damage and arson,784,11
+2025-11-01,Drugs,271,11
+2025-11-01,Other crime,264,11
+2025-11-01,Other theft,347,11
+2025-11-01,Possession of weapons,60,11
+2025-11-01,Public order,449,11
+2025-11-01,Robbery,120,11
+2025-11-01,Shoplifting,900,11
+2025-11-01,Theft from the person,30,11
+2025-11-01,Vehicle crime,304,11
+2025-11-01,Violence and sexual offences,2352,11
