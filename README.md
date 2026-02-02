@@ -1,3 +1,11 @@
+## 🔥 Interactive Crime Hotspot Map
+
+👉 **Live map:**  
+https://sochiencode.github.io/crime-trend-analysis-cleveland/
+
+The map visualises spatial concentrations of recorded crime in Cleveland (UK)
+using kernel density estimation (KDE) and open police data.
+
 # crime-trend-analysis-cleveland
 Time-series and seasonal analysis of recorded crime trends in Cleveland (UK) using Python and Power BI.
 # Crime Trend and Spatial Analysis: Cleveland (UK)
