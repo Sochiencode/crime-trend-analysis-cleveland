@@ -60,14 +60,4 @@ Crimes were aggregated by LSOA and merged with official ONS boundary geometries.
 ```bash
 pip install -r requirements.txt
 
-Policy Relevance
 
-This analysis supports:
-
-Targeted policing strategies
-
-Resource allocation decisions
-
-Neighbourhood-level crime monitoring
-
-Evidence-based public safety planning
