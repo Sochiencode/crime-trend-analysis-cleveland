@@ -60,4 +60,12 @@ Crimes were aggregated by LSOA and merged with official ONS boundary geometries.
 ```bash
 pip install -r requirements.txt
 
+Create `requirements.txt`:
 
+```txt
+pandas
+geopandas
+folium
+matplotlib
+mapclassify
+numpy
