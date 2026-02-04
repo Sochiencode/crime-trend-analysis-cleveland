@@ -6,66 +6,80 @@ https://sochiencode.github.io/crime-trend-analysis-cleveland/
 The map visualises spatial concentrations of recorded crime in Cleveland (UK)
 using kernel density estimation (KDE) and open police data.
 
-# crime-trend-analysis-cleveland
-Time-series and seasonal analysis of recorded crime trends in Cleveland (UK) using Python and Power BI.
-# Crime Trend and Spatial Analysis: Cleveland (UK)
-
-## Overview
-This project presents a time-series and spatial analysis of recorded crime in the **Cleveland Police Force Area (UK)**. Using Python-based analytical workflows, the study explores temporal trends, seasonal variation, and spatial concentration of crime at both incident and neighbourhood (LSOA) level.
-
-The project is designed to demonstrate **policy-relevant crime analysis**, combining exploratory hotspot mapping with administrative boundary-based choropleth visualisation.
 
 ---
 
-## Research Objectives
-- Identify long-term and seasonal crime trends in Cleveland
-- Explore spatial clustering of crime incidents using hotspot analysis
-- Aggregate crime data at **Lower Layer Super Output Area (LSOA)** level
-- Produce policy-grade spatial visualisations suitable for public-sector decision-making
+## Key Analyses
+
+### 1. Temporal Crime Trends
+- Monthly aggregation of reported crimes
+- Identification of seasonal and long-term trends
+- Comparison across crime categories
+
+📈 *Example output:*  
+![Monthly Crime Trends](assets/monthly_trends.png)
 
 ---
 
-## Data Sources
-- UK Police Open Data (Recorded Crime)
-- Office for National Statistics (ONS) – LSOA Boundary Shapefiles (2021)
+### 2. Crime Type Distribution
+- Frequency analysis of reported crime types
+- Identification of dominant offences across the period
+- Comparison of variability between crime categories
 
 ---
 
-## Methodology
-### Temporal Analysis
-- Monthly aggregation of recorded crime
-- Identification of seasonal patterns and trend shifts
-- Crime type comparison by volume
+### 3. Spatial Analysis
+- Geographic plotting using latitude and longitude
+- Marker clustering to identify crime hotspots
+- Visual separation of dense vs low-frequency areas
 
-### Spatial Analysis
-Two complementary spatial approaches were used:
-
-**1. Hotspot Analysis (Point-Based)**  
-Incident-level latitude and longitude coordinates were visualised using a kernel-density-inspired heatmap to identify high-concentration areas of crime activity.
-
-**2. LSOA Choropleth Mapping (Area-Based)**  
-Crimes were aggregated by LSOA and merged with official ONS boundary geometries. Choropleth maps were produced to highlight spatial variation across neighbourhoods, enabling comparison within a policy-relevant administrative framework.
 
 ---
 
-## Key Outputs
-- Interactive crime hotspot heatmap
-- LSOA-level choropleth map of total recorded crime
-- Ranked LSOAs by crime volume
-- Seasonal crime trend analysis
+### 4. Power BI Dashboard
+An interactive dashboard was created to allow:
+- Time-based filtering using a date slicer
+- Crime type filtering
+- Dynamic map and trend updates
+
+The dashboard enables **non-technical users** to explore crime patterns without interacting with code.
 
 ---
 
-## Tools & Technologies
-- Python (pandas, geopandas, folium, matplotlib)
-- Jupyter Notebook (VS Code)
-- Open Government Data
-- GIS-based spatial analysis techniques
+## Key Insights (Summary)
+- Certain crime categories consistently dominate monthly totals
+- Clear temporal patterns are observable across the period
+- Crime incidents show strong spatial clustering in specific urban areas
+- Interactive visualisation significantly improves insight accessibility
+
+*(Detailed insights are documented within the notebook and dashboard.)*
 
 ---
 
-## How to Run the Project
-```bash
-pip install -r requirements.txt
+## Limitations
+- Analysis is limited to reported crimes only
+- No demographic or socioeconomic variables included
+- Spatial accuracy depends on available coordinate precision
+- Forecasting beyond short-term horizons was not included
 
-crime_trends_analysis.ipynb
+---
+
+## Future Improvements
+- Add short-term crime forecasting models
+- Introduce intervention scenario modelling (e.g. patrol increases)
+- Enrich data with population or deprivation indices
+- Publish dashboard to Power BI Service for public access
+
+---
+
+## Author
+**Anamum Ifesochi**  
+Data Analyst | Crime & Intelligence Analysis  
+📍 UK
+
+---
+
+## License
+This project is for **educational and portfolio purposes only**.  
+Data remains the property of its original source.
+
