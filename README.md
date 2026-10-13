@@ -107,3 +107,16 @@ Data Analyst | Crime & Intelligence Analysis
 This project is for **educational and portfolio purposes only**.  
 Data remains the property of its original source.
 
+
+## Streamlit portfolio dashboard
+
+The dashboard provides category/date filters, monthly charts, matching-month year comparisons, downloadable counts and an aggregated geographic view. It explicitly separates anti-social behaviour and documents interpretation limits.
+
+```bash
+python -m pip install -r requirements-dashboard.txt
+python -m streamlit run app.py
+```
+
+Geographic data is precomputed in `data/dashboard_geography.csv`. Regenerate it with `python scripts/prepare_dashboard_data.py`; this also reconciles all monthly counts against the committed export. The dashboard seasonal chart averages monthly totals, unlike the notebook's per-category chart. Geographic coordinates are rounded to two decimal places for visual bins, not exact incident locations.
+
+For Streamlit Community Cloud, select this repository, `main` after merging, and `app.py`. The root requirements.txt includes dashboard dependencies; requirements-dashboard.txt supports a smaller local dashboard installation. Public deployment is a separate step.

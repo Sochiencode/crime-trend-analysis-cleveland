@@ -6,3 +6,7 @@ seaborn==0.13.2
 folium==0.20.0
 jupyterlab==4.6.4
 nbconvert==7.17.2
+
+# Interactive portfolio dashboard
+streamlit==1.65.0
+plotly==7.1.0
