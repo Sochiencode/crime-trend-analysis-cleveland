@@ -3,9 +3,11 @@
 👉 **Live map:**  
 https://sochiencode.github.io/crime-trend-analysis-cleveland/
 
-The map visualises spatial concentrations of recorded crime in Cleveland (UK)
+The map visualises visually observed concentrations of recorded events in Cleveland (UK)
 using the existing Folium HeatMap method and open street-crime data.
 The map covers January 2023–November 2025; it excludes outcome and stop-and-search records.
+The 269,438 street-data records include 50,402 anti-social-behaviour records; they are not all criminal offences.
+The heatmap shows recorded-event concentrations, not population-adjusted risk or exact incident locations. Its appearance depends on smoothing and zoom.
 
 
 ---
@@ -36,8 +38,8 @@ The missing-file experiments were removed because they referenced CSVs absent fr
 ## Key Analyses
 
 ### 1. Temporal Crime Trends
-- Monthly aggregation of reported crimes
-- Identification of seasonal and long-term trends
+- Monthly aggregation of street-data records, including anti-social behaviour
+- Descriptive seasonal comparisons and trends over the observed 35-month period
 - Comparison across crime categories
 
 📈 *Example output:*  
@@ -54,37 +56,35 @@ The missing-file experiments were removed because they referenced CSVs absent fr
 
 ### 3. Spatial Analysis
 - Geographic plotting using latitude and longitude
-- Folium heatmap to visualise concentrations of recorded street crime
+- Folium heatmap to visualise concentrations of recorded street-data events
 - Visual separation of dense vs low-frequency areas
 
 
 ---
 
 ### 4. Power BI Dashboard
-An interactive dashboard was created to allow:
-- Time-based filtering using a date slicer
-- Crime type filtering
-- Dynamic map and trend updates
-
-The dashboard enables **non-technical users** to explore crime patterns without interacting with code.
+The Power BI dashboard file is not included in this repository and is unavailable for verification. The notebook exports monthly counts suitable for use in Power BI; dashboard filters and interactions cannot be checked here.
 
 ---
 
 ## Key Insights (Summary)
 - Certain crime categories consistently dominate monthly totals
 - Clear temporal patterns are observable across the period
-- Crime incidents show strong spatial clustering in specific urban areas
-- Interactive visualisation significantly improves insight accessibility
+- The heatmap shows visually observed concentrations of recorded events; no statistical clustering test was performed
+- The interactive map allows visual exploration of the recorded locations
 
-*(Detailed insights are documented within the notebook and dashboard.)*
+*(Descriptive plots are available in the notebook; the dashboard is unavailable for verification.)*
 
 ---
 
 ## Limitations
-- Analysis is limited to reported crimes only
+- Analysis is limited to police-recorded street-data events, including anti-social behaviour
 - No demographic or socioeconomic variables included
 - Spatial accuracy depends on available coordinate precision
-- Forecasting beyond short-term horizons was not included
+- No forecasting was performed
+- The overall seasonal chart averages month/category counts, not monthly totals: “Average monthly records per crime category”
+- Seasonal coverage is uneven: December has two monthly observations (2023 and 2024), while each other calendar month has three (2023–2025)
+- The heatmap shows recorded-event concentrations, not population-adjusted risk or exact incident locations; no statistical clustering test was performed
 
 ---
 
