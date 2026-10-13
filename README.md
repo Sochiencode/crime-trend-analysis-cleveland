@@ -1,3 +1,11 @@
+# Cleveland Police Recorded Crime & Anti-Social Behaviour Analysis
+
+**[Open the live interactive dashboard](https://cleveland-crime-analysis.streamlit.app/)**
+
+Explore monthly trends, category composition, comparable-year counts and geographic patterns for January 2023–November 2025.
+
+---
+
 ## 🔥 Interactive Crime Hotspot Map
 
 👉 **Live map:**  
@@ -73,7 +81,7 @@ The Power BI dashboard file is not included in this repository and is unavailabl
 - The heatmap shows visually observed concentrations of recorded events; no statistical clustering test was performed
 - The interactive map allows visual exploration of the recorded locations
 
-*(Descriptive plots are available in the notebook; the dashboard is unavailable for verification.)*
+*(Descriptive plots are available in the notebook and the live Streamlit dashboard. The Power BI project file is unavailable for verification.)*
 
 ---
 
@@ -110,6 +118,8 @@ Data remains the property of its original source.
 
 ## Streamlit portfolio dashboard
 
+**Live app:** https://cleveland-crime-analysis.streamlit.app/
+
 The dashboard provides category/date filters, monthly charts, matching-month year comparisons, downloadable counts and an aggregated geographic view. It explicitly separates anti-social behaviour and documents interpretation limits.
 
 ```bash
@@ -119,4 +129,4 @@ python -m streamlit run app.py
 
 Geographic data is precomputed in `data/dashboard_geography.csv`. Regenerate it with `python scripts/prepare_dashboard_data.py`; this also reconciles all monthly counts against the committed export. The dashboard seasonal chart averages monthly totals, unlike the notebook's per-category chart. Geographic coordinates are rounded to two decimal places for visual bins, not exact incident locations.
 
-For Streamlit Community Cloud, select this repository, `main` after merging, and `app.py`. The root requirements.txt includes dashboard dependencies; requirements-dashboard.txt supports a smaller local dashboard installation. Public deployment is a separate step.
+For Streamlit Community Cloud, select this repository, `main` after merging, and `app.py`. The root requirements.txt includes dashboard dependencies; requirements-dashboard.txt supports a smaller local dashboard installation. The dashboard is now deployed at the live app link above.
